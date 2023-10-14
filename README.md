@@ -1,1 +1,1 @@
-# React_Task
+# word-counter-app
